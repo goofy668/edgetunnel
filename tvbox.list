@@ -1,13 +1,15 @@
-# Unbreak tvbox白名单 
+# Unbreak tvbox白名单
 
+DOMAIN-SUFFIX,饭太硬.com
 DOMAIN-SUFFIX,饭太硬.net
+DOMAIN-SUFFIX,肥猫.com
+DOMAIN-SUFFIX,xn--z7x900a.com
 DOMAIN-SUFFIX,mitvbox.xyz
-DOMAIN,tvbox.xn--4kq62z5rby2qupq9ub.top
+DOMAIN-SUFFIX,tvbox.xn--4kq62z5rby2qupq9ub.top
 DOMAIN-SUFFIX,ok321.top
 DOMAIN-SUFFIX,cdn.qiaoji8.com
 DOMAIN-SUFFIX,100km.top
-DOMAIN-SUFFIX,肥猫.com
 DOMAIN-SUFFIX,ghproxy.net
 DOMAIN-SUFFIX,tv.nxog.top
 DOMAIN-SUFFIX,tvbox.cainisi.c
-
+DOMAIN-SUFFIX,mpanso.me
