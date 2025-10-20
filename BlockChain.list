@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,coinmarketcap.com
+DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,huobi.com
 DOMAIN-SUFFIX,debank.com
 DOMAIN-SUFFIX,zks.org
@@ -14,8 +16,6 @@ DOMAIN-SUFFIX,loopring.io
 DOMAIN-SUFFIX,loopring.network
 DOMAIN-SUFFIX,ipdata.co
 DOMAIN-SUFFIX,api.loopring.network
-DOMAIN-SUFFIX,coingecko.com
-DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,token.im
 DOMAIN-SUFFIX,tongke.top
 DOMAIN-SUFFIX,tongke.co
