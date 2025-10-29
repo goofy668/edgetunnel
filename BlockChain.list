@@ -32,8 +32,10 @@ DOMAIN-SUFFIX,kucoin.com
 DOMAIN-SUFFIX,kraken.com
 DOMAIN-SUFFIX,coinbase.com
 DOMAIN-SUFFIX,coinup.io
+DOMAIN-SUFFIX,tokenpocket.pro
 
 # 以下为测试IP查询工具
 DOMAIN-SUFFIX,skk.moe
 DOMAIN-SUFFIX,ip.sb
+
 
