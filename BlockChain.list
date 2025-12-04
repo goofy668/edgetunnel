@@ -4,6 +4,8 @@ DOMAIN-SUFFIX,binance.com
 DOMAIN-SUFFIX,binance.cloud
 DOMAIN-SUFFIX,okex.com
 DOMAIN-SUFFIX,okx.com
+DOMAIN-SUFFIX,okx.cab
+DOMAIN-SUFFIX,okx-doh.com
 DOMAIN-SUFFIX,coinmarketcap.com
 DOMAIN-SUFFIX,coingecko.com
 DOMAIN-SUFFIX,huobi.com
@@ -37,6 +39,7 @@ DOMAIN-SUFFIX,tokenpocket.pro
 # 以下为测试IP查询工具
 # DOMAIN-SUFFIX,skk.moe
 # DOMAIN-SUFFIX,ip.sb
+
 
 
 
